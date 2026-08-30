@@ -8,6 +8,9 @@
 </div>
 
 <div align="center">
+  <h3>System Demonstration in Action</h3>
+  <p><em>Watch the rescue robot perform sound localization, in-place rotation, obstacle avoidance, and autonomous navigation toward the distress source.</em></p>
+  
   <a href="https://youtu.be/IhBLLOgKbUA">
     <img src="https://img.youtube.com/vi/IhBLLOgKbUA/0.jpg" alt="Sound-Tracking Rescue Robot Demo" width="70%">
   </a>
