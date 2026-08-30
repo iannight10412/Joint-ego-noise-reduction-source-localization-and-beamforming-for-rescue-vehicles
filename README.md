@@ -1,6 +1,6 @@
 # Joint ego noise reduction, source localization and beamforming for rescue vehicles
 
-This repository contains the software and communication architecture for an autonomous search-and-rescue mobile platform. The system is designed to lock onto distress signals (human voices) using sound source localization, dynamically plan a path, and autonomously navigate to the target while avoiding obstacles
+This repository contains the software and communication architecture for an autonomous search-and-rescue mobile platform. The system is designed to lock onto distress signals (human voices) using sound source localization, dynamically plan a path, and autonomously navigate to the target while avoiding obstacles.
 
 ## System Architecture
 
