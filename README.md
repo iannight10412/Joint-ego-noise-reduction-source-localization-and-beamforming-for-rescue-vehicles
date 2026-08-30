@@ -7,6 +7,13 @@
   <img src="https://img.shields.io/badge/Hardware-Raspberry%20Pi-C51A4A?logo=raspberry-pi" alt="Raspberry Pi">
 </div>
 
+<div align="center">
+  <a href="https://youtu.be/IhBLLOgKbUA">
+    <img src="https://img.youtube.com/vi/IhBLLOgKbUA/0.jpg" alt="Sound-Tracking Rescue Robot Demo" width="70%">
+  </a>
+</div>
+<br>
+
 This repository contains the software and communication architecture for an autonomous search-and-rescue mobile platform. The system is designed to lock onto distress signals (human voices) using sound source localization, dynamically plan a path, and autonomously navigate to the target while avoiding obstacles.
 
 ## System Architecture
