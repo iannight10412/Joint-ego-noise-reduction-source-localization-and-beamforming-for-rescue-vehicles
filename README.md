@@ -34,7 +34,7 @@ This project was developed as a university capstone project at the Department of
 
 **Core Contributors:**
 *   **Yuan-Fu Hung (洪元甫)**: Responsible for Acoustic Algorithms (SRP-PHAT/AOA), Embedded Systems (Arduino ISR/Timer), Raspberry Pi ROS2 Environment Setup, Hardware Communication, and System Integration.
-*   **He-Sheng Liu (劉和昇)**: Responsible for System Integration.
+*   **He-Sheng Liu (劉和昇)**: Responsible for Embedded Systems (Arduino ISR/Timer), Hardware Communication (Serial), and System Integration
 *   **Chon-Hei Ng (吳俊希)**: Responsible for Mechanical Design, 3D Printing, Object Placement Planning, and System Integration.
 
 *Original DSP algorithm baseline (SRP-PHAT) provided by lab seniors; ROS2 node refactoring, multi-array data fusion, and Serial communication implemented by Yuan-Fu Hung.*
