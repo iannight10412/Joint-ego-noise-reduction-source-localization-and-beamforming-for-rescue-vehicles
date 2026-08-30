@@ -1,6 +1,11 @@
 # Joint ego noise reduction, source localization and beamforming for rescue vehicles
 
-[![Sound-Tracking Rescue Robot Demo](https://img.youtube.com/vi/IhBLLOgKbUA/0.jpg)](https://youtu.be/IhBLLOgKbUA)
+<div align="center">
+  <img src="https://img.shields.io/badge/ROS2-Humble-blue?logo=ros" alt="ROS2">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Arduino-C%2B%2B-00979D?logo=arduino" alt="Arduino">
+  <img src="https://img.shields.io/badge/Hardware-Raspberry%20Pi-C51A4A?logo=raspberry-pi" alt="Raspberry Pi">
+</div>
 
 This repository contains the software and communication architecture for an autonomous search-and-rescue mobile platform. The system is designed to lock onto distress signals (human voices) using sound source localization, dynamically plan a path, and autonomously navigate to the target while avoiding obstacles.
 
